@@ -1,0 +1,12 @@
+.big .small .title {
+  color: #f00;
+}
+.big .title {
+  color: #00f;
+}
+.big p {
+  color: #339933;
+}
+div.title {
+  color: #339933;
+}

@@ -1,0 +1,82 @@
+/* Task #1 */
+/* Any Element With Class Title */
+.title {
+}
+/* Any element with id = "nav" */
+#nav {
+}
+
+/* Any div element  */
+div {
+}
+
+/* any h2 element */
+h2 {
+}
+/* Task #2 */
+/*
+<!-- External Style sheet -->
+<link rel="stylesheet" href="css/file.css" />
+<!-- Internal Style sheet -->
+<style>
+p {
+  color: red;
+}
+</style>
+<!-- Inline style with css -->
+<p style="color: blue;">This Is Our Paragraph</p>
+*/
+
+/* Task #5 */
+/* Valid */
+._user-name {
+}
+
+/* Valid */
+.-user-name {
+}
+
+/* Valid */
+.-user-name {
+}
+
+/* Not Valid */
+.1user-name {
+}
+
+/* Not Valid */
+.@user-name {
+}
+
+/* Not Valid */
+.user@name {
+}
+
+/* Valid */
+._user10name {
+}
+
+/* Valid */
+.u {
+}
+
+/* Task #6 */
+/* Bad */
+.USERNAME {
+}
+
+/* Bad */
+.UserName {
+}
+
+/* Good */
+.user-name {
+}
+
+/* Bad */
+.userName {
+}
+
+/* Bad */
+.usernameprofile {
+}
